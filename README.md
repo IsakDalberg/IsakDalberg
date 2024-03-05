@@ -1,5 +1,5 @@
-- Name's @IsakDalberg! A Unity-fanatic since 5+ years back.
-- I’m currently on my first year of highschool in Bodens GameDev course.
+- Yooo.
+- I’m currently on my third year of highschool on Bodens GameDev course.
 - 📌 My main project is working on the studio "Miraclebread" as a programmer/project-lead.
 - My goal is to get into the roots of the gaming industry and have lots of fun.
 - Contact: dalbergisak@gmail.com
