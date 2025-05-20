@@ -1,7 +1,6 @@
-- Yooo.
-- I’m currently on my third year of highschool on Bodens GameDev course.
-- 📌 My main project is working on the studio "Miraclebread" as a programmer/project-lead.
-- My goal is to get into the roots of the gaming industry and have lots of fun.
+- Code!
+- Miracle Bread Co-Founder
+- 
 - Contact: dalbergisak@gmail.com
 
 <!---
